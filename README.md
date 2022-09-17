@@ -1,2 +1,4 @@
 # rainbow-song
-a song of ranbow
+a song of rainbow
+by netwong
+
